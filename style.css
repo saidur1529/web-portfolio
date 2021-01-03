@@ -10,10 +10,10 @@ h1 {
     color: orange;
 }
 .half-width {
-    width: 40%;
+    width: 35%;
     float: left;
     margin-left: 5%;
-    padding-left:5%;
+    padding-left:2%;
 }
 .half-widht img {
     width: 100%;
