@@ -1,9 +1,20 @@
-body{
+body {
     font-family: 'Noto Sans', sans-serif;
 }
-h1{
+
+h1 {
     font-size: 50px;
 }
-.name-highlight{
+
+.name-highlight {
     color: orange;
+}
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left:5%;
+}
+.half-widht img {
+    width: 100%;
 }
