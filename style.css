@@ -1,5 +1,5 @@
 body {
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 h1 {
@@ -9,12 +9,15 @@ h1 {
 .name-highlight {
     color: orange;
 }
+
 .half-width {
-    width: 35%;
+    width: 40%;
     float: left;
     margin-left: 5%;
-    padding-left:2%;
+    padding-left: 2%;
+
 }
-.half-widht img {
-    width: 100%;
+
+.half-width img {
+    width: 70%;
 }
